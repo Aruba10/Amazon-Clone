@@ -85,6 +85,7 @@ index.html
 **Your Name**
 
 * GitHub: https://github.com/aruba10
+* Github: https://github.com/pr426738
 
 
 ✨ Built with HTML, CSS & JavaScript
