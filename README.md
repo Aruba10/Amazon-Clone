@@ -89,5 +89,3 @@ index.html
 
 ✨ Built with HTML, CSS & JavaScript
 
-# Live Link:
-https://amazon-frontend-clone01.netlify.app/
